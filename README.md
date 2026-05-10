@@ -44,8 +44,8 @@ Two report versions are available, calibrated to different audiences:
 
 | Report | Audience | Length | Focus |
 |---|---|---|---|
-| [`reports/investment_briefing_v1.pdf`](SA_Investment_report.pdf) | Investment client | 12 pages | Recommendation-led, decision-oriented |
-| [`reports/market_dynamics_v2.pdf`](reports/market_dynamics_v2.pdf) | AEMO / NEM stakeholders | 14 pages | Observational, market-structure focus |
+| [`reports/investment_report.pdf`](SA_Investment_report.pdf) | Investment client | 12 pages | Recommendation-led, decision-oriented |
+| [`infographic/investment_infographic.pdf`](sa-electricity-market-investment-thesis/SA_electricity_investment_infographic.html.pdf) | Public | 1 pages | Visual presentation, Quick underestanding  |
 
 Both reports draw from the same analytical foundation but differ in framing, depth of recommendation, and visual conventions.
 
