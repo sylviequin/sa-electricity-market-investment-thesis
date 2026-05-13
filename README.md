@@ -83,7 +83,6 @@ Battery revenue is calculated as **net revenue** (discharge revenue minus chargi
 
 Battery capacity factor and DWP are presented separately from energy-driven generators where methodologically appropriate, reflecting the structural difference between arbitrage-driven and energy-production-driven revenue.
 
-Full methodology in [`docs/methodology.md`](docs/methodology.md).
 
 ---
 
